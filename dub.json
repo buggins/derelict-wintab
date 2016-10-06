@@ -1,0 +1,16 @@
+{
+    "name": "derelict-wintab",
+    "description": "A dynamic binding to WinTab (Wacom Tablet API for Windows)",
+    "homepage": "https://github.com/buggins/derelict-wintab",
+    "license": "Boost",
+    "authors": [
+        "Vadim Lopatin"
+    ],
+
+    "targetName": "DerelictWT",
+    "targetPath": "lib",
+
+    "dependencies": {
+        "derelict-util": ">=1.0.3"
+    }
+}
